@@ -1,5 +1,5 @@
 {
-    "name": "Kouloughliapp/plugins",
+    "name": "kouloughliapp/plugins",
     "description": "Core stuff for Kouloughli plugin support.",
     "type": "library",
     "license": "MIT",
