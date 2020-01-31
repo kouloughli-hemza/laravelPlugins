@@ -21,18 +21,18 @@
     },
     "autoload": {
         "psr-4": {
-            "kouloughli\\Plugins\\": "src/"
+            "Kouloughli\\Plugins\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "kouloughli\\Plugins\\Tests\\": "tests/"
+            "Kouloughli\\Plugins\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "kouloughli\\Plugins\\PluginsServiceProvider"
+                "Kouloughli\\Plugins\\PluginsServiceProvider"
             ]
         }
     }
