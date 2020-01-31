@@ -5,7 +5,7 @@ Core classes for [Kouloughli](https://Kouloughliapp.io) plugin support.
 To install the package just run the following command:
 
 ```
-composer require Kouloughliapp/plugins
+composer require kouloughliapp/plugins
 ```
 
 ## License
